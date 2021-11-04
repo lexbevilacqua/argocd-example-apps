@@ -22,5 +22,5 @@ spec:
           - name: ENVIRONMENT
             value: dev
           - name: APP_NAME
-            value: guestbooks
+            value: guestbooks2
          

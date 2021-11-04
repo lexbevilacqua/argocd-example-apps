@@ -23,6 +23,6 @@ spec:
             value: dev
           - name: APP_NAME
             value: guestbooks2
-          -name: SAUL
+          - name: SAUL
             value: saul
          
